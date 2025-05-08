@@ -6,7 +6,8 @@ public class TestCase1 {
 		int a=100;
 		int b=200;
 		int c=a+b;
-		System.out.println(a);
+		System.out.println(c);
+		System.out.println("successfully updated");
 
 	}
 

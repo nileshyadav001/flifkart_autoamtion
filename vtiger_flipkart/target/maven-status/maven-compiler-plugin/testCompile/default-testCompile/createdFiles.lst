@@ -1,0 +1,7 @@
+org\info\vtiger\testscripts\MoreAutomationScripts.class
+org\info\vtiger\testscripts\PdocumentsAutomationTestScript.class
+org\info\vtiger\testscripts\rflipkartAutomationScript.class
+org\info\vtiger\testscripts\ContactsAutomationScripts.class
+org\info\vtiger\testscripts\qProductsAutomationScripts.class
+RunnerTestScripts\TestRunnerScripts.class
+org\info\vtiger\testscripts\OrganigationAutomationScripts.class
